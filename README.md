@@ -1,1 +1,2 @@
-# Re-writing-Spaghetti-Code
+udacity-frontend-attendance
+===========================
